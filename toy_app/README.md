@@ -1,2 +1,2 @@
-# toy_app
+# 'toy app'
 a really reduced microblogging platform
